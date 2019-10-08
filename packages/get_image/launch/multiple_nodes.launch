@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="get_image" type="image.py" name="image" output="screen"/>
+
+</launch>
